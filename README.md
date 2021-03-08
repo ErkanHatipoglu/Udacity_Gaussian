@@ -14,10 +14,14 @@ The package can:
 - Calculate the mean,
 - Calculate the standard deviation,
 - Plot a histogram of the dataset,
-- Plot probability density function of a Gaussian distribution,
-- Add two gaussian distributions.
+- Plot probability density function of Gaussian and Binomial distributions,
+- Add two Gaussian distributions.
+- Add two Binomial distributions.
+
 
 ## Install
 
 pip install distributions-EH
+
+## Usage
 
