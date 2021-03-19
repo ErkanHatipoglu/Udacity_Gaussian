@@ -18,6 +18,12 @@ The package can:
 - Add two Gaussian distributions.
 - Add two Binomial distributions.
 
+The project consists of a base class (Generaldistribution) and two child classes(Gaussiandistribution, Binomialdistribution). The class diagram is as follows:
+
+<p style="color:blue;font-size:10px;">Class Diagram</p>
+
+![class_diagram.png](images/class_diagram.png)
+
 
 ## Install
 
