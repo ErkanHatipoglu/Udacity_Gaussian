@@ -12,7 +12,7 @@ Key Features:
 The project structure includes a base class `Distribution` and two derived classes `Gaussian` and `Binomial`.
 
 ## Class Diagram
-![class_diagram_2.png](images/class_diagram_2.png)
+![class_diagram_2.png](images/class_diagram.png)
 
 ## Installation
 To install this package, run the following command:
